@@ -1,0 +1,7 @@
+C:\git\DS98991\coursera\DS\11\BTT\BTT\bin\Debug\BTT.exe.config
+C:\git\DS98991\coursera\DS\11\BTT\BTT\bin\Debug\BTT.exe
+C:\git\DS98991\coursera\DS\11\BTT\BTT\bin\Debug\BTT.pdb
+C:\git\DS98991\coursera\DS\11\BTT\BTT\obj\Debug\BTT.csprojAssemblyReference.cache
+C:\git\DS98991\coursera\DS\11\BTT\BTT\obj\Debug\BTT.csproj.CoreCompileInputs.cache
+C:\git\DS98991\coursera\DS\11\BTT\BTT\obj\Debug\BTT.exe
+C:\git\DS98991\coursera\DS\11\BTT\BTT\obj\Debug\BTT.pdb

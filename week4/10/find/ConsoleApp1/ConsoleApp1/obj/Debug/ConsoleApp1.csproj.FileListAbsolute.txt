@@ -1,0 +1,6 @@
+C:\git\DS98991\coursera\DS\10\find\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\git\DS98991\coursera\DS\10\find\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\git\DS98991\coursera\DS\10\find\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\git\DS98991\coursera\DS\10\find\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\git\DS98991\coursera\DS\10\find\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\git\DS98991\coursera\DS\10\find\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

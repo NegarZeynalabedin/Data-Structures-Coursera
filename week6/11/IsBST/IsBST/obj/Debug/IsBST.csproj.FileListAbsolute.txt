@@ -1,0 +1,6 @@
+C:\git\DS98991\coursera\DS\11\IsBST\IsBST\bin\Debug\IsBST.exe
+C:\git\DS98991\coursera\DS\11\IsBST\IsBST\bin\Debug\IsBST.pdb
+C:\git\DS98991\coursera\DS\11\IsBST\IsBST\obj\Debug\IsBST.csprojAssemblyReference.cache
+C:\git\DS98991\coursera\DS\11\IsBST\IsBST\obj\Debug\IsBST.csproj.CoreCompileInputs.cache
+C:\git\DS98991\coursera\DS\11\IsBST\IsBST\obj\Debug\IsBST.exe
+C:\git\DS98991\coursera\DS\11\IsBST\IsBST\obj\Debug\IsBST.pdb

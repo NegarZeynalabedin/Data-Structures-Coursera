@@ -1,0 +1,6 @@
+C:\git\DS98991\coursera\DS\9\1\1\bin\Debug\1.exe
+C:\git\DS98991\coursera\DS\9\1\1\bin\Debug\1.pdb
+C:\git\DS98991\coursera\DS\9\1\1\obj\Debug\1.csprojAssemblyReference.cache
+C:\git\DS98991\coursera\DS\9\1\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+C:\git\DS98991\coursera\DS\9\1\1\obj\Debug\1.exe
+C:\git\DS98991\coursera\DS\9\1\1\obj\Debug\1.pdb
